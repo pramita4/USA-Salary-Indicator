@@ -4,9 +4,11 @@
 
 **TEAM MEMBERS:**
 
- Arpita Bhagat	(002776356)	bhagat.ar@northeastern.edu
- Pramita Sandhyan	(002766881)	sandhyan.p@northeastern.edu
- Jurreyyah Firdaws Mohammad	(002747514)	firdawsmohammad.j@northeastern.edu
+ 1. Arpita Bhagat	(002776356)	bhagat.ar@northeastern.edu
+ 
+ 2. Pramita Sandhyan	(002766881)	sandhyan.p@northeastern.edu
+ 
+ 3. Jurreyyah Firdaws Mohammad	(002747514)	firdawsmohammad.j@northeastern.edu
  
 **PROBLEM STATEMENT:** Every decade, the United States has seen great development in the incomes of various occupations, making it difficult for individuals to choose the right profession, compare statistics in various professions, and determine the most favorable region. The USA Salary Indicator is a system created to address the challenge that individuals encounter when determining the salary of each profession.
 
