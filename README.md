@@ -1,12 +1,14 @@
 # USA-Salary-Indicator
-[USA.Salary.Indicator (1).docx](https://github.com/pramita4/USA-Salary-Indicator/files/9639835/USA.Salary.Indicator.1.docx)
+Assignment 1
+
+[USA.Salary.Indicator (1).docx](https://github.com/pramita4/USA-Salary-Indicator/files/9639841/USA.Salary.Indicator.1.docx)
 
 
 **TEAM MEMBERS:**
 
  1. Arpita Bhagat	(002776356)	bhagat.ar@northeastern.edu
  
- 2. Pramita Sandhyan	(002766881)	sandhyan.p@northeastern.edu
+ 2. Pramita Dileep Sandhyan	(002766881)	sandhyan.p@northeastern.edu
  
  3. Jurreyyah Firdaws Mohammad	(002747514)	firdawsmohammad.j@northeastern.edu
  
