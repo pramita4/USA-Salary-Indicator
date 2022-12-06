@@ -2,7 +2,9 @@
 
 ASSIGNMENT-3
 TOPIC: USA SALARY INDICATOR
-Conceptual diagram:![image](https://user-images.githubusercontent.com/63634756/205785718-88e476ff-9054-4ebd-b47a-8dc80b1f66d3.png)
+Conceptual diagram:
+
+![image](https://user-images.githubusercontent.com/63634756/205785718-88e476ff-9054-4ebd-b47a-8dc80b1f66d3.png)
 
  
 Objective: 
@@ -20,30 +22,11 @@ Scrappig screenshots:
      
 
 Cleaning screenshots: The scripts to clean the data are in the screenshots.
-
-
- 
-  
-
- 
-
-
-
- 
-
-
-
- 
- 
-
-
- 
-
- 
-
- 
-
-
+![image](https://user-images.githubusercontent.com/63634756/205785801-f8e1aa8b-64f5-4940-8031-96b07b5a60f1.png)
+![image](https://user-images.githubusercontent.com/63634756/205785831-324a40e1-c55c-4e43-b72a-7c80d8f5c666.png)
+![image](https://user-images.githubusercontent.com/63634756/205785864-27e643a9-f3e8-436c-aa72-468a6c741d16.png)
+![image](https://user-images.githubusercontent.com/63634756/205785873-3e1ad46c-9550-4b11-a117-871c6797d8cb.png)
+![image](https://user-images.githubusercontent.com/63634756/205785886-1218d97c-f2ce-47dc-ab3d-5638a76016a9.png)
 
 
 
@@ -51,6 +34,18 @@ Cleaning screenshots: The scripts to clean the data are in the screenshots.
 Cleaning of person table:
 
  
+![image](https://user-images.githubusercontent.com/63634756/205785922-7b1e14ef-2e60-4d08-9fc2-71287735cd04.png)
+![image](https://user-images.githubusercontent.com/63634756/205785937-cad45402-5409-4583-b8ab-cc4013148837.png)
+![image](https://user-images.githubusercontent.com/63634756/205785945-d2e2e292-3194-4a55-8b0d-430260bdd1e2.png)
+![image](https://user-images.githubusercontent.com/63634756/205785953-26ba6bfd-99cc-4fc2-95f1-389032d038fc.png)
+![image](https://user-images.githubusercontent.com/63634756/205785959-a1c715c6-9b40-4b9a-a1b5-9c13db98f2ed.png)
+![image](https://user-images.githubusercontent.com/63634756/205785969-af113563-32a7-47a5-8572-735a62b7311c.png)
+![image](https://user-images.githubusercontent.com/63634756/205785981-13f5e0de-0e09-48af-8a23-901161bdd6ea.png)
+![image](https://user-images.githubusercontent.com/63634756/205785992-c4427575-2b35-403c-b3e7-2795c6f08f89.png)
+![image](https://user-images.githubusercontent.com/63634756/205786001-62ca971e-c283-4b71-8884-0fdfc2d15bdc.png)
+![image](https://user-images.githubusercontent.com/63634756/205786014-ff526d41-306d-4a40-a39c-ae3c079c3a8f.png)
+![image](https://user-images.githubusercontent.com/63634756/205786024-2dce0e36-51ff-4203-a501-e1aeb0158814.png)
+![image](https://user-images.githubusercontent.com/63634756/205786038-ef32490e-e29a-4044-9de6-e18d833d01ff.png)
 
 
  
@@ -61,7 +56,14 @@ Cleaning of person table:
 
 Data visualization: 
  
- 
+ ![image](https://user-images.githubusercontent.com/63634756/205786051-0d490453-d06e-4c9e-aeeb-5b65062c7606.png)
+![image](https://user-images.githubusercontent.com/63634756/205786067-cee10399-22bc-4469-a38e-7b1b19048ec8.png)
+![image](https://user-images.githubusercontent.com/63634756/205786079-11e6e78e-bbc4-4a54-949d-aa6c31262c7e.png)
+  ![image](https://user-images.githubusercontent.com/63634756/205786116-17983b30-e2c1-4150-bd9a-1bf859686138.png)
+![image](https://user-images.githubusercontent.com/63634756/205786121-807cfb49-d52a-4e67-8010-4e39d7b11d29.png)
+![image](https://user-images.githubusercontent.com/63634756/205786135-b08d9f51-6ea7-4f83-a1cb-c6dcf243be31.png)
+![image](https://user-images.githubusercontent.com/63634756/205786144-445fe7e2-f724-4d41-b27e-97106bcb3363.png)
+
 
  
  
