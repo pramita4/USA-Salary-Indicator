@@ -2,7 +2,8 @@
 
 ASSIGNMENT-3
 TOPIC: USA SALARY INDICATOR
-Conceptual diagram:
+Conceptual diagram:![image](https://user-images.githubusercontent.com/63634756/205785718-88e476ff-9054-4ebd-b47a-8dc80b1f66d3.png)
+
  
 Objective: 
 •	Help individuals achieve the optimal job and location.
